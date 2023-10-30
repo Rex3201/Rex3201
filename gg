@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>个人网页</title>
+    <style>
+        body {
+            background-color: #FFD700; 
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: red; 
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+            color: #A52A2A; 
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>烏衣巷</h1>
+    <p>朱雀橋邊野草花，烏衣巷口夕陽斜。</p>
+    <p>舊時王謝堂前燕，飛入尋常百姓家。</p>
+</body>
+</html>
